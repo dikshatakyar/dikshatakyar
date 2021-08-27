@@ -7,7 +7,7 @@
 <b> About Me: </b>
 - 😄 Pronouns: She/Her
 - 💻 2nd year CS undergrad
-- 🤝 I’m looking to collaborate on Front End Web Development 
+- 🤝 looking to collaborate on Front End Web Development 
 - ⚡ Fun fact: I like to make memes! 🤪 
 
 
