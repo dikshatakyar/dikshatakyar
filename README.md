@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,my name is Diksha Takyar </h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Diksha Takyar </h1>
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp" width="55%" height="70%" style="margin:0 50px;"> 
 
@@ -7,7 +7,7 @@
 <b> About Me: </b>
 - 😄 Pronouns: She/Her
 - 💻 2nd year CS undergrad
-- 🤝 looking to collaborate on Front End Web Development 
+- 🤝 Looking to collaborate on Front End Web Development 
 - ⚡ Fun fact: I like to make memes! 🤪 
 
 
