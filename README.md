@@ -1,5 +1,8 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Diksha Takyar </h1>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatakyar&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatakyar"  />  </p>
+
 <img align="right" alt="GIF" src="https://i.giphy.com/media/LMcB8XospGZO8UQq87/giphy.webp" width="55%" height="70%" style="margin:0 50px;"> 
 
 
