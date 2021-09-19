@@ -46,17 +46,17 @@
 <p align="center">
 <a href="https://github.com/dikshatakyar">
   
-  <img  width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshatakyar&layout=compact&theme=radical&hide_border=true" />
+  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshatakyar&layout=compact&theme=radical&hide_border=true" />
   
-<img   width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshatakyar&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
+<!-- <img   width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshatakyar&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" /> -->
 
+<img   width="48%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" />
 
 
   <br><br>
 <img alt="Diksha's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=dikshatakyar&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
 
 
-<!-- <img   width="48%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" /> -->
 
 
  </a>
