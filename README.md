@@ -50,7 +50,7 @@
   
 <!-- <img   width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshatakyar&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" /> -->
 
-<img   width="48%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" />
+<img   width="52%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" />
 
 
   <br><br>
