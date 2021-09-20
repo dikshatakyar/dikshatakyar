@@ -46,11 +46,11 @@
 <p align="center">
 <a href="https://github.com/dikshatakyar">
   
-  <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshatakyar&layout=compact&theme=radical&hide_border=true" />
+  <img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshatakyar&layout=compact&theme=radical&hide_border=true" />
   
 <!-- <img   width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshatakyar&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" /> -->
 
-<img   width="52%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" />
+<img   width="55%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" />
 
 
   <br><br>
