@@ -55,8 +55,8 @@
 
   <br><br>
 <!-- <img alt="Diksha's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=dikshatakyar&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true"> -->
-      <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </a>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <br>
