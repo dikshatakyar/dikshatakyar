@@ -25,6 +25,8 @@
 <img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="https://img.icons8.com/color/452/bootstrap.png" />
 <img align="left" title="JavaScript" alt="JavaScript" height="35px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
 <img align="left" title="Java" alt="Java" height="35px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" title="React" alt="React" height="35px" src="https://image.pngaaa.com/930/2507930-middle.png" />
+<img align="left" title="Nodejs" alt="Node" height="35px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" />
 
 
 
