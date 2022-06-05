@@ -25,7 +25,7 @@
 <img align="left" title="CSS3" alt="CSS3" width="35px" src="./logos/css3_coloured.png" />
 <img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
 <img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
-
+<img align="left" title="NodeJS" alt="NodeJS" height="35px" src="./logos/nodejs.png" />
 
 
 
@@ -33,9 +33,9 @@
 <br>
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://www.linkedin.com/in/diksha-takyar-3a50721b9/" target="_blank" ><img align="left" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href="mailto:diksha.takyar@gmail.com"><img align="left" title="Mail - Diksha Takyar" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
-<a href="https://www.instagram.com/the.resilient_/" target="_blank" ><img align="left" title="Instagram - Diksha Takyar" alt="Instagram" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>
+<a href="https://www.linkedin.com/in/diksha-takyar-3a50721b9/" target="_blank" ><img align="left" title="LinkedIn - Diksha Takyar" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
+<a href="mailto:diksha.takyar@gmail.com"><img align="left" title="Mail - Diksha Takyar" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
+<!-- <a href="https://www.instagram.com/the.resilient_/" target="_blank" ><img align="left" title="Instagram - Diksha Takyar" alt="Instagram" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a> -->
 
 <br>
 <br>
