@@ -1,4 +1,5 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Diksha Takyar </h1>
+<!-- <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Diksha Takyar </h1> -->
+<h1 align="center">Hi there! I'm Diksha Takyar </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshatakyar&label=Profile%20views&color=0e75b6&style=flat" alt="dikshatakyar"  />  </p>
@@ -19,13 +20,12 @@
 
 <h3 align="left">Skills: </h3>
 
-<img align="left" title="C++" alt="C++" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" title="HTML5" alt="HTML5" width="35px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
-<img align="left" title="CSS3" alt="CSS3" width="35px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
-<img align="left" title="Bootstrap" alt="Bootstrap" width="35px" src="https://img.icons8.com/color/452/bootstrap.png" />
-<img align="left" title="JavaScript" alt="JavaScript" height="35px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
-<img align="left" title="React" alt="React" height="35px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-<img align="left" title="Nodejs" alt="Node" height="35px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" />
+<img align="left" title="C++" alt="C++" height="35px" src="./logos/cpp_coloured.png" />
+<img align="left" title="HTML5" alt="HTML5" width="35px" src="./logos/html5_coloured.png" />
+<img align="left" title="CSS3" alt="CSS3" width="35px" src="./logos/css3_coloured.png" />
+<img align="left" title="JS" alt="JavaScript" height="35px" src="./logos/javascript_coloured2.png" />
+<img align="left" title="ReactJS" alt="ReactJS" height="35px" src="./logos/react_colored.png" />
+
 
 
 
