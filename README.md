@@ -10,7 +10,7 @@
 
 <b> About Me: </b>
 - 😄 Pronouns: She/Her
-- 💻 2nd year CS undergrad
+- 💻 3rd year CS undergrad
 - 👩‍💻 Currently learning DSA!
 - 🤝 Looking to collaborate on Front End Web Development 
 - ⚡ Fun fact: I like to make memes! 🤪 
