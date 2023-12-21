@@ -53,10 +53,10 @@
 <!-- <img   width="50%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" /> -->
 
 
-  <br><br>
+  <!-- <br><br>
 <img alt="Diksha's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=dikshatakyar&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
  </a>
-</p>
+</p> -->
 
 <br>
 
