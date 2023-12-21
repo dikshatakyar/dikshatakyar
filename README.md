@@ -10,9 +10,8 @@
 
 <b> About Me: </b>
 - 😄 Pronouns: She/Her
-- 💻 3rd year CS undergrad
-- 👩‍💻 Currently learning DSA!
-- 🤝 Looking to collaborate on Front End Web Development 
+- 👩‍💻 Currently learning Redux!
+- 🤝 Looking to collaborate on front-end projects
 - ⚡ Fun fact: I like to make memes! 🤪 
 
 
@@ -51,7 +50,7 @@
   
 <!-- <img   width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshatakyar&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" /> -->
 
-<img   width="50%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" />
+<!-- <img   width="50%" src="https://github-readme-stats.vercel.app/api?username=dikshatakyar&show_icons=true&hide_border=true&theme=radical" /> -->
 
 
   <br><br>
